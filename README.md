@@ -48,16 +48,5 @@ Classes:
 - Transformers
 - Computer Vision
 
-## Repository Contents
-- `advanced_weighted (1).ipynb` – Model implementation
-- `MultiModal Deep Learning For Public Safety Incident Detection.pdf` – Thesis report
-- `Journal Paper.pdf` – Research paper
-
-## Authors
-- Addepalli Somanadha Sai
-- Ande Poorna Sandeep
-- J. T. Eswara Bhujanga Kumar
-- Kemisetty Mokshagna
-
 ## License
 MIT License
